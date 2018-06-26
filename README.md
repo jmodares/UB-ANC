@@ -9,7 +9,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the **GNU General Public License** along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 # Designing Multi-Drone Networks and Applications
-Buffalo's Airborne Networking and Communications Ecosystem (UB-ANC)
+University at Buffalo's Airborne Networking and Communications Ecosystem (UB-ANC)
 
 ## Abstract
 Recent advances in rotorcraft design, multi-rotor vehicle control, miniaturization of hardware, sensing, and battery technologies have enabled cheap, practical design of micro air vehicles (MAVs) for civilian and hobby applications. In parallel, several applications are being envisioned that bring together networks of MAVs to accomplish large tasks by coordinating with each other. Despite these advancements, and new FAA rules governing their use, it is still very challenging to experiment with multiple networked MAVs. To address this problem, we are engaged in a multi-year effort to develop an open software/hardware platform called the University at Buffalo's Airborne Networking and Communications Ecosystem (UB-ANC), which consists of three main open-source projects: **UB-ANC Drone**, [UB-ANC Emulator](https://github.com/jmodares/UB-ANC-Emulator), and [UB-ANC Planner](https://github.com/jmodares/UB-ANC-Planner). Our goal is to design, implement, and test MAV networking applications in simulation, and provide seamless transition to deployment.
